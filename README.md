@@ -1,7 +1,7 @@
 # Agroforestry-Tool
 Projecting Carbon Sequestration of Forest and Agroforestry system...
 
-The tool based on the equation  Bertalanffy-Richards function. The sgroforestry rotational period is also added in the tool. 
+The tool is based on the equation  Bertalanffy-Richards function. The agroforestry rotational period is also added in the tool. 
 
 For Vegetation Carbon..
 
